@@ -1,0 +1,8 @@
+# always ignore files
+*.DS_Store
+.vscode
+*.sublime-*
+
+# npm
+node_modules
+npm-debug.log

@@ -1,0 +1,22 @@
+{
+  "name": "djsoop",
+  "version": "1.0.0",
+  "description": "Provides OOP features for Javascript like abstract class & interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "abstract class",
+    "interface",
+    "oop",
+    "javascript oop",
+    "js oop"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
